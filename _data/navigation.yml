@@ -1,10 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://homebrewedsec.github.io/otos/#About
   - title: "Our Food"
-    url: /food/
-  - title: "Blog"
-    url: /blog/
+    url: https://homebrewedsec.github.io/otos/#Food
+  - title: "Kitchen Blog"
+    url: /Kitchen-blog/
+  - title: "Garden Blog"
+    url: /garden-blog/
   - title: "Contact"
-    url: /contact/
+    url: https://homebrewedsec.github.io/otos/#Contact
